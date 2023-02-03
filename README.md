@@ -1,6 +1,6 @@
 # Tic-Tac-Toe-By-Hardik-Verma
 (2022-winter Break)
-my first cmd based game coded made in c language ʘ‿ʘ
+my first cmd based game. Coded made in c language ʘ‿ʘ
 
 DEVELOPER
 Hardik Verma
