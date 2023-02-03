@@ -6,6 +6,6 @@ DEVELOPER
 Hardik Verma
 
 Nothing to tell you know the drill
-
-Hay still reading
+----------------------------------
+Hey still reading
 Easter egg------type 24 in program
